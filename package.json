@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Danthamaz/reserve-table/issues"
   },
-  "homepage": "https://github.com/Danthamaz/reserve-table#readme"
+  "homepage": "https://github.com/Danthamaz/reserve-table#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7"
+  }
 }
